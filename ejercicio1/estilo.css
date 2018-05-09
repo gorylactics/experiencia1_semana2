@@ -1,0 +1,44 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.barra { 
+	position: fixed;
+	top: 0;
+	width: 100%;
+	height: 50px;
+	background-color: red;
+	list-style-type: none;
+}
+.boxcentral{
+	width: 100%;
+	height: 150px;
+	margin-top: 50px;
+	text-align: center;
+	background-color: orange;
+
+}
+
+.box
+{	width: calc(25% - 10px);
+	margin: 5px;
+	margin-top: 5px;
+	background-color: gray;
+	box-sizing: border-box;
+	float:left;
+	padding-bottom: 10px;
+
+}
+img{text-align: center;
+	width: 100%;
+}
+
+
+ul{list-style-type: none;
+
+}
+
+li{	float: left;
+	width: 33.3%;
+	text-align: center;
+	padding: 17px 0 0 0 ;}
