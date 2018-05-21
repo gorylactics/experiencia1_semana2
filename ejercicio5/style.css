@@ -1,0 +1,15 @@
+*{
+	padding:0;
+	margin:0;
+}
+
+.lente{
+	position: absolute;
+	z-index: 1;
+
+}
+
+.ribbon{
+	position: absolute;
+	z-index: 3;
+}
