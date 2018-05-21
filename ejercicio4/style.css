@@ -1,0 +1,25 @@
+div.rectangulo{
+	position: absolute;
+	width: 80%;
+	height: 250px;
+	background-color:#b0ccab;
+	margin: 0 -10% 0 10%;
+
+}
+
+div.texto{
+	position: relative;
+	width: 80%;
+	margin: 4% 5% 3% 10%;
+	text-align: left;
+	
+}
+
+div.texto2{
+	position: relative;
+	width: 80%;
+	text-align: left;
+	float: right;
+	margin: 0 2% 0 0;
+	
+}
